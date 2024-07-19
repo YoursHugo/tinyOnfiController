@@ -6,5 +6,5 @@ In this project, I am working on the design and implementation of a tiny ONFI co
 If you want to run this project, make sure that you have installed gtkwave and iverilog on your machine. You can run the project by executing the following commands:
 
 ```bash
-make $(modulename)
+make MODULE=$(moduleName)
 ```
