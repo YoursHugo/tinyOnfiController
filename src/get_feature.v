@@ -61,6 +61,7 @@ module get_feature
                 onfi_cle = 0;
                 onfi_ale = 0;
                 onfi_wen = 1;
+                state = 0;
             end
             default: begin
             end
